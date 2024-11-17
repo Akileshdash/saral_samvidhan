@@ -148,3 +148,8 @@ By implementing these features, the project aims to create an inclusive and enga
      npm run dev
      ```
 
+Screenshots 
+![image](https://github.com/user-attachments/assets/f2c42656-7fe3-45cc-ae2b-d7047706b9d8)
+![image](https://github.com/user-attachments/assets/2d9ecb16-5e93-4b57-a381-2ed0502f25da)
+
+
