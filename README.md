@@ -65,46 +65,80 @@ By implementing these features, the project aims to create an inclusive and enga
 
 
 ## Contributions
+## Contributors and Their Roles
 
 - **Akilesh**: 
-  - Worked on frontend development and implemented Tailwind CSS.
-  - News API has been implemented.
-  - Frontend for News Block Section. 
-  - Inititalzed Environment and Players in the game.
-  - SetUp the physics and crontrols for the same.
-
+  - Developed the environment for the game using Three.js.
+  - Initiated the News Block and Discussion Forum pages.
+  - Integrated the NEWS API for fetching live updates.
+  - Implemented backend connectivity for:
+    - User:
+      - Login & Signup
+      - Uploading profile photo
+      - Editing profile contents
+      - Creating new communities
+      - Uploading a new post
+    - Admin:
+      - Admin page
+      - Reviewing, approving, and deleting posts
+      - Connecting sentiment analysis to all posts
+    - Post:
+      - Creating, liking/disliking, and sharing a post
+    - Communities:
+      - Registering to a community
+      - Connecting posts with specific tags to respective communities
+  - Chatbot:
+    - Connected the chatbot to the backend and retrieved chat history from the database
+  - Made the following pages responsive:
+    - Chatbot
+    - Discussion Forum
+    - Communities
+    - Individual Post View
+    - Admin Dashboard
+  - Created UML Class Diagram.
+  - Designed and developed the Admin Page.
 
 - **Shivadharshan**: 
-  - Developed game animations.
-  - Created the player model.
-  - Designed controllers for both the player and car.
-  - Integrated the backend server with mongodb
-  - Developed backend for login register and law chronicles
-  - Fixed cookie and session management 
+  - Implemented player movement, player model, and car controller.
+  - Integrated MongoDB for backend data storage.
+  - Developed and connected the Login/Signup page to the backend.
+  - Added navigation arrows within the game environment.
+  - Deployed the website on Vercel.
+  - Created Sequence Diagram.
+  - Built the game using Unity 3D, incorporating features like:
+    - Navigation and collision detection
+    - Trespassing alerts
+    - Max load checks
+    - Collisions with vehicles, buildings, and during jumping traffic scenarios
 
 - **Preet**: 
-  - Created UI for chatbot.  
-  - Integrated the chatbot into the platform.
-  - Created the sentiment analysis feature which will further be used into moderation of community forum.
-  - Frontend fixes.
-
-- **Nayak**:
-  - Developed the Login and SignUp pages.
-  - Designed and implemented the news block section.
-  - Helped in fronted development. 
+  - Developed the Chat Assistant to assist users.
+  - Created the Sentiment Analysis backend for chatbot functionality.
+  - Integrated the chatbot with the website UI and main platform.
 
 - **Lavkush**:  
-  - Constructed the foundational layout of the frontend for all pages.
-  - Developed frontend for Law Chronicals. 
-  - Implemented Translation into multiple languages across the website.
+  - Designed and updated:
+    - Home Page
+    - Login Page
+    - Contact Page
+    - Navbar and Footer
+  - Added frontend functionality for the chatbot.
+  - Enhanced the Home Page using Framer Motion.
+  - Designed and updated the glossary.
+  - Implemented multilingual support for Indian languages.
+  - Enhanced the Forum UI for a better user experience.
 
 - **Vineeth**: 
-    - Developed the Login and SignUp pages.
-    - Made several frontend improvements to enhance user experience.
-    - Supported in Data Collection.
+  - Designed the UI for Login/Signup pages.
+  - Assisted with the Law Chronicles page.
+  - Designed the UI for the chatbot.
+  - Made the UI responsive for mobile resolutions (Chatbot, Login).
 
-
-
+- **Nayak**: 
+  - Designed the News Block sections to provide informative resources.
+  - Assisted with the Login/Signup page.
+  - Designed the Glossary section.
+  - Designed the Law Chronicles page.
 
 
 
