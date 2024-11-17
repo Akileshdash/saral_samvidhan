@@ -184,12 +184,21 @@ By implementing these features, the project aims to create an inclusive and enga
 
 ## Screenshots 
 ![image](https://github.com/user-attachments/assets/f2c42656-7fe3-45cc-ae2b-d7047706b9d8)
+___
 ![image](https://github.com/user-attachments/assets/2d9ecb16-5e93-4b57-a381-2ed0502f25da)
+___
 ![image](https://github.com/user-attachments/assets/76988dc0-df6d-48f6-ae73-190bd41f8f36)
+___
 ![image](https://github.com/user-attachments/assets/25c4d882-f642-49f5-b0cb-56ce0840d31f)
+___
 ![image](https://github.com/user-attachments/assets/95a5431a-f945-4ac5-b2bf-6a9584b2cbe1)
+___
 ![image](https://github.com/user-attachments/assets/8050ccd1-13fb-4859-92d9-5064ed5dada5)
+___
 ![image](https://github.com/user-attachments/assets/2f9e033d-8c94-41d2-b70c-4c1f08368f05)
+___
+![image](https://github.com/user-attachments/assets/50c5b6cc-c95e-45da-ad7f-dddced5b21a4)
+
 
 
 
