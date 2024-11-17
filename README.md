@@ -182,8 +182,15 @@ By implementing these features, the project aims to create an inclusive and enga
      npm run dev
      ```
 
-Screenshots 
+## Screenshots 
 ![image](https://github.com/user-attachments/assets/f2c42656-7fe3-45cc-ae2b-d7047706b9d8)
 ![image](https://github.com/user-attachments/assets/2d9ecb16-5e93-4b57-a381-2ed0502f25da)
+![image](https://github.com/user-attachments/assets/76988dc0-df6d-48f6-ae73-190bd41f8f36)
+![image](https://github.com/user-attachments/assets/25c4d882-f642-49f5-b0cb-56ce0840d31f)
+![image](https://github.com/user-attachments/assets/95a5431a-f945-4ac5-b2bf-6a9584b2cbe1)
+![image](https://github.com/user-attachments/assets/8050ccd1-13fb-4859-92d9-5064ed5dada5)
+![image](https://github.com/user-attachments/assets/2f9e033d-8c94-41d2-b70c-4c1f08368f05)
+
+
 
 
